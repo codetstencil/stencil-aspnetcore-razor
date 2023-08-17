@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following   
 // set of attributes. Change these attribute values to modify the information  
 // associated with an assembly.  
-[assembly: AssemblyTitle("Default Code Nanite")]
-[assembly: AssemblyDescription("Common Code Nanite for general use")]
+[assembly: AssemblyTitle("ASP .NET Core Razor Nanite")]
+[assembly: AssemblyDescription("The ASP .NET Core Razor Stencil will generate a CRUD application in Razor")]
 [assembly: AssemblyConfiguration("")]  
 [assembly: AssemblyCompany("ZeraSystems Inc.")]  
 [assembly: AssemblyProduct("CodeStencil Code Nanites")]  
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]  
 [assembly: AssemblyCulture("")]  
   
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers   
 // by using the '*' as shown below:  
 // [assembly: AssemblyVersion("1.0.*")]  
-[assembly: AssemblyVersion("1.0.18129.0")]  
-[assembly: AssemblyFileVersion("1.0.18129.0")]  
+[assembly: AssemblyVersion("2.2.3")]  
+[assembly: AssemblyFileVersion("2.2.3")]  
